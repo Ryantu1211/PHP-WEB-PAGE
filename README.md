@@ -30,4 +30,5 @@ Part 1 - GET & SHOW DATA FROM A DATABASE:
     1. Setting The Fetch Mode To Get An Object
 - Getting Data Into An Object Using A Class
     1. Creating An Object Using An Existing Class
+    
 Part 2: UPDATING DATA IN A DATABASE
