@@ -9,6 +9,7 @@
 ![image](https://user-images.githubusercontent.com/63163522/221064011-faf88ac0-f37f-4045-a9ab-9faf33fbb322.png)
 ![image](https://user-images.githubusercontent.com/63163522/221064063-1ee6407c-1cf5-41a8-8e7d-424f71fe8da4.png)
 ![image](https://user-images.githubusercontent.com/63163522/221064110-a41e996c-1b92-43a1-a02b-961aa7712ad4.png)
+![image](https://user-images.githubusercontent.com/63163522/221064359-87fae852-83d3-45ca-b893-d180caae88d1.png)
 
 # PHP-WEB-PAGE
 Part 1 - GET & SHOW DATA FROM A DATABASE:
