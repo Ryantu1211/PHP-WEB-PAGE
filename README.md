@@ -50,3 +50,6 @@ Part 2: UPDATING DATA IN A DATABASE
     3. Save Changes
     4. Form/ Message
 - Deleting An Article
+
+Part 3: Refactoring & Dependency Injection:
+-
