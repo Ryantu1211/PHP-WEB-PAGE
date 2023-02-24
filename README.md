@@ -1,3 +1,15 @@
+![image](https://user-images.githubusercontent.com/63163522/221063378-6b41174b-2dff-43c0-9f8d-9686a167afec.png)
+![image](https://user-images.githubusercontent.com/63163522/221063456-d3c8035e-7745-4b53-ab9b-7f4383673f75.png)
+![image](https://user-images.githubusercontent.com/63163522/221063520-d317d150-c309-4f8d-8784-b3cb4e0d790c.png)
+![image](https://user-images.githubusercontent.com/63163522/221063808-bc82ff9d-ea97-4b7e-8bd0-696e3b95ef8c.png)
+![image](https://user-images.githubusercontent.com/63163522/221063840-5cc1aa7e-100c-4582-a21b-8b444f6e6d91.png)
+![image](https://user-images.githubusercontent.com/63163522/221063897-6c9a8686-b25c-4d0d-b1fd-624de61d3bb4.png)
+![image](https://user-images.githubusercontent.com/63163522/221063935-0846060d-751b-42d6-a005-f965b0d9edb6.png)
+![image](https://user-images.githubusercontent.com/63163522/221063978-613d622c-45e2-4317-931e-20299efb2165.png)
+![image](https://user-images.githubusercontent.com/63163522/221064011-faf88ac0-f37f-4045-a9ab-9faf33fbb322.png)
+![image](https://user-images.githubusercontent.com/63163522/221064063-1ee6407c-1cf5-41a8-8e7d-424f71fe8da4.png)
+![image](https://user-images.githubusercontent.com/63163522/221064110-a41e996c-1b92-43a1-a02b-961aa7712ad4.png)
+
 # PHP-WEB-PAGE
 Part 1 - GET & SHOW DATA FROM A DATABASE:
 - Connecting to the Database
