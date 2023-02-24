@@ -52,4 +52,12 @@ Part 2: UPDATING DATA IN A DATABASE
 - Deleting An Article
 
 Part 3: Refactoring & Dependency Injection:
--
+- Using objec to work with database:
+    1. Create CMS Container Object
+    2. Create Database Class
+    3. Create Category Class
+    4. Create, update, delete categories
+    5. Getting Article Data
+    6. Using The CMS Object
+    7. Create Autoloading Classes
+    8. Create Validation Class using Static Methods
